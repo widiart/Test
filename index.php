@@ -1,2 +1,2 @@
 <?php
-echo "halo gaes";
+echo "halo";
